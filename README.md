@@ -118,12 +118,13 @@ A platform for configuring, combining, backtesting, and evaluating cryptocurrenc
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=PhamVanMinhBinhThuan&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhamVanMinhBinhThuan&layout=compact&theme=tokyonight&hide_border=true" />
+**Explore my code, contributions, and projects on GitHub.**
+
+[![GitHub Profile](https://img.shields.io/badge/View_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PhamVanMinhBinhThuan)
 
 </div>
 
